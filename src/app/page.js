@@ -1,9 +1,9 @@
 "use client";
 
-import HeroSection from "@/components/ui/HeroSection";
-import ServicesSection from "@/components/ui/ServicesSection";
-import GallerySection from "@/components/ui/GallerySection";
-import AboutUsSection from "@/components/ui/AboutUsSection";
+import HeroSection from "../components/ui/HeroSection";
+import ServicesSection from "../components/ui/ServicesSection";
+import GallerySection from "../components/ui/GallerySection";
+import AboutUsSection from "../components/ui/AboutUsSection";
 import { useRouter } from 'next/navigation';
 
 export default function Home() {
