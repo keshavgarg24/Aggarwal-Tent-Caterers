@@ -1,7 +1,7 @@
 "use client"; // Ensure this is marked as a client component if it uses client-side features
 
 import Image from 'next/image';
-import { Button } from '@/components/ui/button';
+import { Button } from './Button';
 import { Carousel, CarouselContent, CarouselItem, CarouselPrevious, CarouselNext } from './carousel'; // Adjust path if needed
 
 const GallerySection = ({ onViewMoreClick }) => {
