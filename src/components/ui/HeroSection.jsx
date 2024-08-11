@@ -22,7 +22,7 @@ const HeroSection = () => {
             सेवाएं।
           </p>
           <p className="text-base md:text-lg lg:text-xl font-semibold text-[var(--foreground)] mb-6">
-            "Customer satisfaction is our top priority"
+            Customer satisfaction is our top priority
           </p>
           <a
             href="https://wa.me/+91-8851151548"
